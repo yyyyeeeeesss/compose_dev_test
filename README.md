@@ -15,4 +15,4 @@ Docker контейнер с postgres содержит 20 000 нагенерир
 5. Открыть https://codepen.io/yyyyeeeeesss/pen/PdrdYW и вначале js файла указать токен с шага 3
 
 В итоге должно работать примерно так:
-https://drive.google.com/file/d/1uUky200fE0VHLlbdYHVNlz9j6sa4gGDH/view
+https://youtu.be/04F9aHSIEhA
