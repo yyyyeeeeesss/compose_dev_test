@@ -1,0 +1,16 @@
+version: '3'
+services:
+    php:
+        image: verman123/php-dbs-flespi
+        restart: always
+        environment:
+            - MQTT_SERVER=mqtt.flespi.io
+            - MQTT_PORT=1883
+            - MQTT_TOKEN=HMrGY3ZxJ94CC8BpO3HQhATr18OZhOkOqAjct8z05tqyqQL4JiIOHq6yoIlvku8A
+    postgres:
+        image: verman123/postgres-dbs
+        restart: always
+        environment:
+            - POSTGRES_DB=default
+            - POSTGRES_USER=default
+            - POSTGRES_PASSWORD=secret
