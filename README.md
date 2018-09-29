@@ -15,4 +15,4 @@ Docker контейнер с postgres содержит 20 000 нагенерир
 5. Открыть https://codepen.io/yyyyeeeeesss/pen/PdrdYW и вначале js файла указать токен с шага 3
 
 В итоге должно работать примерно так:
-![teamwork-flip](https://im2.ezgif.com/tmp/ezgif-2-fe2896dc74.gif)
+https://drive.google.com/file/d/1uUky200fE0VHLlbdYHVNlz9j6sa4gGDH/view
