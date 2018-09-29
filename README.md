@@ -1,5 +1,5 @@
 # Содержание
-Содержит контейнер БД (postgres) и контейнер с api, который работает c mqtt broker 
+Содержит контейнер БД (postgres) и контейнер с приложением, которое работает c mqtt broker 
 
 # Репозиторий с кодом (laravel)
 https://github.com/yyyyeeeeesss/flespi-laravel
