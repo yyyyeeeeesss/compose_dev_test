@@ -11,7 +11,7 @@ https://github.com/yyyyeeeeesss/flespi-laravel
 3. В файле docker-compose.yml в переменную MQTT_TOKEN - указать токен к flespi.io
 4. Выполнить docker-compose exec php /usr/bin/php /var/flespi/artisan migrate (нужно немного подождать, будет сгенерировано 10 000 пользователей)
 5. Выполнить docker-compose exec php /usr/bin/php /var/flespi/artisan bus:listen
-6. Открыть https://codepen.io/yyyyeeeeesss/pen/PdrdYW и вначале js файла указать токен с шага 3
+6. Открыть https://codepen.io/yyyyeeeeesss/pen/PdrdYW и вначале js файла указать токен из шага 3
 
 В итоге должно работать примерно так:
 https://youtu.be/04F9aHSIEhA
